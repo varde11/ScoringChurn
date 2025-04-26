@@ -26,7 +26,7 @@ Dans un marché des télécommunications hautement concurrentiel, **51 % des c
 
 ## Solution Apportée
 
-Ce projet propose un modèle de machine learning capable d'identifier les clients les plus susceptibles de résilier leur contrat. En s'appuyant sur des données clients historiques, le modèle permet de prédire le churn et d'aider les entreprises à élaborer des stratégies de rétention efficaces.
+Ce projet propose un modèle de machine learning capable d'identifier les clients les plus susceptibles de résilier leur contrat. En s'appuyant sur des données clients historiques, le modèle permet de prédire le churn et d'aider les entreprises à élaborer des stratégies de rétention efficaces. **Le code contient des commentaires pratiquement sur toutes les lignes pour vous aidez à comprendre les méthodes de traitement**.
 
 ---
 
